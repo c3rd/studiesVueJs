@@ -13,9 +13,9 @@ export default {
     data() {
         return {
             assignments: [
-                { name: "Test 1", completed: false, id: 1 },
-                { name: "Test 2", completed: false, id: 2},
-                { name: "Test 3", completed: false, id: 3} 
+                { name: "Test 1", completed: false, id: 1, tag: 'math' },
+                { name: "Test 2", completed: false, id: 2, tag: 'science' },
+                { name: "Test 3", completed: false, id: 3, tag: 'math' } 
             ]
         };
     },
