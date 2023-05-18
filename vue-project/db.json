@@ -1,0 +1,11 @@
+{
+    "places": [
+        { "name": "Ragusa", "completed": false, "id": 1, "tag": "math" },
+        { "name": "Chiaramonte Gulfi", "completed": false, "id": 2, "tag": "science" },
+        { "name": "Modica", "completed": false, "id": 3, "tag": "programming" },
+        { "name": "Palermo", "completed": false, "id": 4, "tag": "undefined" },
+        { "name": "Noto", "completed": false, "id": 5, "tag": "math" },
+        { "name": "Syracuse", "completed": false, "id": 6, "tag": "science" },
+        { "name": "Catania", "completed": false, "id": 7, "tag": "undefined" }
+    ]
+}
